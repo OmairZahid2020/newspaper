@@ -1,0 +1,50 @@
+.container{
+    height: 100dvh;
+    width: 100%;
+    background-color: rgb(229, 229, 229);
+}
+
+.text{
+    font-size: 64px;
+    text-align: center;
+    padding: 32px;
+    margin: 10px;
+    font-weight: 4 00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.innerbox{
+    height:90%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.first{
+    height: 100%;
+    width: 30%;
+}
+
+.second{
+    height: 100%;
+    width: 30%;
+}
+
+.third{
+    height: 100%;
+    width: 30%;
+}
+
+.text2{
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 10px;
+font-weight: 400;
+}
+
+.paragraph1{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
